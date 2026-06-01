@@ -1,2 +1,2 @@
 # InventoryManagementApp
-An Inventory Management application created with C# WinForms
+Developed a C# Inventory Management System that provides efficient product tracking, inventory organization, and stock management capabilities. Leveraged object-oriented programming principles to create a scalable and maintainable solution for managing inventory data. Implemented functionality for adding, updating, and removing inventory records while ensuring accurate stock information and streamlined data management. This project strengthened my experience in application development, data organization, and designing practical software solutions to solve real-world business problems.
