@@ -1,0 +1,14 @@
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\bin\Debug\InventoryManagementApp.exe.config
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\bin\Debug\InventoryManagementApp.exe
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\bin\Debug\InventoryManagementApp.pdb
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.csproj.AssemblyReference.cache
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.txtInventory.resources
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.AddProductForm.resources
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.txtProducts.resources
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.ModifyPartForm.resources
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.ModifyProductForm.resources
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.Properties.Resources.resources
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.csproj.GenerateResource.cache
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.exe
+C:\Users\GitTh\source\repos\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.pdb
